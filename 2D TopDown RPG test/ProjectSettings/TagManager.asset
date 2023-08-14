@@ -47,12 +47,12 @@ TagManager:
   - name: Terrain
     uniqueID: 3249069907
     locked: 0
-  - name: Character
-    uniqueID: 4240860467
-    locked: 0
   - name: Barriers
     uniqueID: 3139435667
     locked: 0
   - name: Props
     uniqueID: 3642462203
+    locked: 0
+  - name: Character
+    uniqueID: 4240860467
     locked: 0
