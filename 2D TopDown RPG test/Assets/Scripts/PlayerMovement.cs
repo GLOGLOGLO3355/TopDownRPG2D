@@ -21,6 +21,15 @@ public class PlayerMovement : MonoBehaviour
 
         // Calcular el vector de movimiento
         rb.velocity = new Vector2(horizontalInput, verticalInput) * moveSpeed;
+
+
+         if (verticalInput==0 && horizontalInput==0)
+        {
+            anim.SetBool("isWalkingSide", false);
+            anim.SetBool("isWalkingUp", false);
+            anim.SetBool("isWalkingDown", false);
+        }
+
         if (horizontalInput < 0){
             transform.rotation = Quaternion.Euler(0f,180f,0f);
         }
@@ -33,6 +42,7 @@ public class PlayerMovement : MonoBehaviour
             anim.SetBool("isWalkingDown", false);
         }
         else {
+            anim.SetBool("isWalkingSide", false);
             if (verticalInput<0){
                 anim.SetBool("isWalkingUp", false);
                 anim.SetBool("isWalkingDown", true);
@@ -41,12 +51,7 @@ public class PlayerMovement : MonoBehaviour
                 anim.SetBool("isWalkingDown", false);
                 anim.SetBool("isWalkingUp", true);
             }
-            else
-            {
-                anim.SetBool("isWalkingSide", false);
-                anim.SetBool("isWalkingUp", false);
-                anim.SetBool("isWalkingDown", false);
-            }
+           
         }
 
     }
