@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 952415ad50989a046aee012a2942842e
+guid: 0600c876720755e48b243c286dd68926
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -117,568 +117,568 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: neo_zero_char_01_0
+      name: neo_zero_props_and_items_01 1_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 256
-        width: 32
-        height: 32
+        x: 1
+        y: 142
+        width: 15
+        height: 18
       alignment: 9
-      pivot: {x: 0.5, y: 0.18537426}
+      pivot: {x: 0.49999994, y: 0.043718975}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c19462519d00d3429946e44e4009409
-      internalID: -1816160243
+      spriteID: 55d4bf23aad53dd4bb84794bea46d9d3
+      internalID: 543439258
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_char_01_1
+      name: neo_zero_props_and_items_01 1_1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 256
-        width: 32
-        height: 32
+        x: 23
+        y: 134
+        width: 41
+        height: 26
       alignment: 9
-      pivot: {x: 0.5000001, y: 0.17920494}
+      pivot: {x: 0.5286169, y: 0.02165633}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 191f68a8280d10e44ac21dec0148ab48
-      internalID: -1377596645
+      spriteID: c3609e6612863cf4498a22d0b61898f4
+      internalID: -187808430
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_char_01_2
+      name: neo_zero_props_and_items_01 1_2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 256
-        width: 32
-        height: 32
+        x: 65
+        y: 134
+        width: 30
+        height: 24
       alignment: 9
-      pivot: {x: 0.49999976, y: 0.19771194}
+      pivot: {x: 0.5, y: 0.03068161}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa9afc5695238ba49ab567c6c3327463
-      internalID: 266095522
+      spriteID: 9749fd10434b75a4c8ca4a4711623f23
+      internalID: -620510580
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_char_01_3
+      name: neo_zero_props_and_items_01 1_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 224
-        width: 32
-        height: 32
+        x: 96
+        y: 133
+        width: 16
+        height: 24
       alignment: 9
-      pivot: {x: 0.5, y: 0.1915431}
+      pivot: {x: 0.51466656, y: 0.040459316}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 83ca3faf4e098624392a8e5b8943a356
-      internalID: -638455029
+      spriteID: 9f11368fa5b27ae489712b60b53a2c10
+      internalID: -1889862732
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_char_01_4
+      name: neo_zero_props_and_items_01 1_4
       rect:
         serializedVersion: 2
-        x: 32
-        y: 224
-        width: 32
-        height: 32
+        x: 113
+        y: 133
+        width: 14
+        height: 24
       alignment: 9
-      pivot: {x: 0.5000001, y: 0.1915431}
+      pivot: {x: 0.5, y: 0.030682245}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f297ad7f3e16b1c4386c3ff401b77789
-      internalID: -2135841225
+      spriteID: efa54b2cb67c92349be812740d350b49
+      internalID: -1392094464
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_char_01_5
+      name: neo_zero_props_and_items_01 1_5
       rect:
         serializedVersion: 2
-        x: 64
-        y: 224
-        width: 32
-        height: 32
+        x: 129
+        y: 147
+        width: 14
+        height: 10
       alignment: 9
-      pivot: {x: 0.5061691, y: 0.18537378}
+      pivot: {x: 0.53352356, y: 0.030682374}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b8039eec33a895a4c9a7c270f4714dac
-      internalID: -1383399009
+      spriteID: 523f2952db6cfea4d92541e1bfbed7f6
+      internalID: -1668443002
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_char_01_6
+      name: neo_zero_props_and_items_01 1_6
       rect:
         serializedVersion: 2
-        x: 0
-        y: 192
-        width: 32
-        height: 32
+        x: 147
+        y: 149
+        width: 10
+        height: 10
       alignment: 9
-      pivot: {x: 0.5616914, y: 0.16069746}
+      pivot: {x: 0.50000155, y: 0.07761383}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 308f3028d66ea584cb7f64c53f43d153
-      internalID: 369967381
+      spriteID: 23f36080049649d4baa6711a6d9ac0fd
+      internalID: 313775235
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_char_01_7
+      name: neo_zero_props_and_items_01 1_7
       rect:
         serializedVersion: 2
-        x: 32
-        y: 192
-        width: 32
-        height: 32
+        x: 146
+        y: 129
+        width: 11
+        height: 13
       alignment: 9
-      pivot: {x: 0.54318416, y: 0.17303562}
+      pivot: {x: 0.5426664, y: 0.048733052}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 53b1a72de7ad8d64b951b8e307cc7e4c
-      internalID: 1330789704
+      spriteID: 05fc7fc2cdb06a547b7e667fb0d1c779
+      internalID: -1500571036
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_char_01_8
+      name: neo_zero_props_and_items_01 1_8
       rect:
         serializedVersion: 2
-        x: 64
-        y: 192
-        width: 32
-        height: 32
+        x: 18
+        y: 98
+        width: 44
+        height: 26
       alignment: 9
-      pivot: {x: 0.56786036, y: 0.16069746}
+      pivot: {x: 0.51599956, y: 0.17508785}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e28bde07cc99a7408b85b642c80a27a
-      internalID: 389009812
+      spriteID: 669026c349acc004ba10015013e92765
+      internalID: -185681228
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_char_01_9
+      name: neo_zero_props_and_items_01 1_9
       rect:
         serializedVersion: 2
-        x: 0
-        y: 160
-        width: 32
-        height: 32
+        x: 68
+        y: 99
+        width: 26
+        height: 21
       alignment: 9
-      pivot: {x: 0.50000036, y: 0.19126749}
+      pivot: {x: 0.49097443, y: 0.18712144}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 06e25c3715c9ea14d9918ff59a1ed60a
-      internalID: 1794683337
+      spriteID: bfc863864dbc7c040b409c507f2c3d65
+      internalID: -370910940
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_char_01_10
+      name: neo_zero_props_and_items_01 1_10
       rect:
         serializedVersion: 2
-        x: 32
-        y: 160
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.19904184}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b8508fe229f9d9146af0b3982bfec55b
-      internalID: 1136858337
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: neo_zero_char_01_11
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 160
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.18900967}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9276faf658009584ba51e1c9948d5287
-      internalID: 969099766
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: neo_zero_char_01_12
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 128
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.50000006, y: 0.19904184}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9a376498fc5e40a4c885beef0b967d87
-      internalID: -2062854474
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: neo_zero_char_01_13
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 128
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.49498403, y: 0.2040577}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f342b660341fe964396533f7ff17daf1
-      internalID: 359617336
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: neo_zero_char_01_14
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 128
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.18900967}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: df5e78e55e1a9064db575ed4a083ffe8
-      internalID: 1453263351
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: neo_zero_char_01_15
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 96
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5478695, y: 0.16491318}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e4100ec4ee4978942834873597318be8
-      internalID: -1943011829
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: neo_zero_char_01_16
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 96
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5265939, y: 0.17023206}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f0a1238111f434445b66095fd4149518
-      internalID: 1828930782
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: neo_zero_char_01_17
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 96
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5638256, y: 0.17555094}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c57e34e6aa146fb44b2ee6179f5e7b8e
-      internalID: -1679417525
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: neo_zero_char_01_18
-      rect:
-        serializedVersion: 2
-        x: 0
+        x: 80
         y: 64
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.1915071}
+        width: 80
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9851e878a8c056645bcc06e1e0206800
-      internalID: -1954026240
+      spriteID: eb336c3ccc95e2c4fb09656b49c223a6
+      internalID: 1963618861
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_char_01_19
+      name: neo_zero_props_and_items_01 1_11
       rect:
         serializedVersion: 2
-        x: 32
-        y: 64
-        width: 32
-        height: 32
+        x: 134
+        y: 101
+        width: 5
+        height: 9
       alignment: 9
-      pivot: {x: 0.494681, y: 0.1861887}
+      pivot: {x: 0.546933, y: 0.13497585}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42fa7bbe2f04ab84a9aadac2aeaa1417
-      internalID: 1706674958
+      spriteID: 9b22005c5f1f62041baea8bf62c79722
+      internalID: 402902347
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_char_01_20
+      name: neo_zero_props_and_items_01 1_12
       rect:
         serializedVersion: 2
-        x: 64
-        y: 64
-        width: 32
-        height: 32
+        x: 145
+        y: 100
+        width: 11
+        height: 10
       alignment: 9
-      pivot: {x: 0.49468088, y: 0.19682646}
+      pivot: {x: 0.64932805, y: 0.14801177}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68c7ff32b22c14d44a1c3e072458f905
-      internalID: -537729533
+      spriteID: e7984f77b54d77447a8594cd2623ff0c
+      internalID: 1832077380
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_char_01_21
+      name: neo_zero_props_and_items_01 1_13
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 66
+        width: 7
+        height: 12
+      alignment: 9
+      pivot: {x: 0.53352356, y: 0.1480128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e515a93cd8efe4780370fd458af5a6
+      internalID: -1882460489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neo_zero_props_and_items_01 1_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 47
+        width: 10
+        height: 14
+      alignment: 9
+      pivot: {x: 0.570398, y: 0.19829586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa58cd3e09fad94ea13db9db13cbf92
+      internalID: -1321679932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neo_zero_props_and_items_01 1_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 47
+        width: 13
+        height: 15
+      alignment: 9
+      pivot: {x: 0.4999994, y: 0.1245458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9f0010a8526524fa39a7ee26dc6270
+      internalID: 694979644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neo_zero_props_and_items_01 1_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 3
+        width: 13
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5000006, y: 0.07761353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7149ef8e1f8dfd343835ac192e8e99b4
+      internalID: -965407809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neo_zero_props_and_items_01 1_17
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 3
+        width: 9
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5260739, y: 0.054147862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d453922c3182b499fb672443a59cd5
+      internalID: -975624422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neo_zero_props_and_items_01 1_18
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 3
+        width: 13
+        height: 48
+      alignment: 9
+      pivot: {x: 0.46390006, y: 0.06979194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050dcc16fa274c149addf4daeae83d80
+      internalID: -1595004036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neo_zero_props_and_items_01 1_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 10
+      alignment: 9
+      pivot: {x: 0.4926666, y: 0.23600979}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bade6f0a2d3a0b14b8c68551f6da618f
+      internalID: -575719483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neo_zero_props_and_items_01 1_20
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 13
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1788879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2036d68d4f1dd3b44a3d4a6b227c28ae
+      internalID: 455818280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neo_zero_props_and_items_01 1_21
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 3
+        width: 10
+        height: 17
+      alignment: 9
+      pivot: {x: 0.52346575, y: 0.21012758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04457e0e4c5aadc48adaa1b385eb89b0
+      internalID: -615463884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neo_zero_props_and_items_01 1_22
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1
+        width: 10
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.10890139}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19e4e45967bd974b8efeee700151544
+      internalID: -1297001755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: neo_zero_props_and_items_01 1_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 3
+        width: 7
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5000011, y: 0.2653412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37ee38eb87df5c4f8c5365c90ee19cf
+      internalID: -239378739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoTilemap_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 32
-        width: 32
-        height: 32
+        y: 22
+        width: 16
+        height: 10
       alignment: 9
-      pivot: {x: 0.5, y: 0.19682658}
+      pivot: {x: 0.5293325, y: 0.21840973}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7974e4ad1cddd9d4d90168f5b2fc0d57
-      internalID: 1318535640
+      spriteID: 040ee55be4c2b4549bc3ada6c9e2df2b
+      internalID: 1015014879
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_char_01_22
+      name: NoTilemap_1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 32
-        width: 32
-        height: 32
+        x: 18
+        y: 34
+        width: 13
+        height: 13
       alignment: 9
-      pivot: {x: 0.49999976, y: 0.1915077}
+      pivot: {x: 0.4819487, y: 0.1570367}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 03404a67803d4ff40979ce3724efaf5c
-      internalID: 869509290
+      spriteID: 818bb5e360816614081cacd45850be5b
+      internalID: 1637926123
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_char_01_23
+      name: NoTilemap_2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 32
-        width: 32
-        height: 32
+        x: 3
+        y: 35
+        width: 10
+        height: 12
       alignment: 9
-      pivot: {x: 0.49999952, y: 0.20214534}
+      pivot: {x: 0.4999999, y: 0.16756725}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0b70961aa9540d44d909cae43822e8a9
-      internalID: -778547216
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: neo_zero_char_01_24
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5531883, y: 0.1702323}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b142699b4cc21c042bc97b66ccf980e8
-      internalID: 1640834245
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: neo_zero_char_01_25
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 0
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5319128, y: 0.15959464}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fac1e8e94b228d94ea6d3d96285a40ad
-      internalID: -332972029
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: neo_zero_char_01_26
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5582788, y: 0.16328047}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7bd7effa7060d5f4ea78b921a0f3c022
-      internalID: 2051095360
+      spriteID: 5f0e6e694fe5f8b4f80c4056e2060dda
+      internalID: -248381224
       vertices: []
       indices: 
       edges: []
@@ -694,33 +694,33 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      neo_zero_char_01_0: -1816160243
-      neo_zero_char_01_1: -1377596645
-      neo_zero_char_01_10: 1136858337
-      neo_zero_char_01_11: 969099766
-      neo_zero_char_01_12: -2062854474
-      neo_zero_char_01_13: 359617336
-      neo_zero_char_01_14: 1453263351
-      neo_zero_char_01_15: -1943011829
-      neo_zero_char_01_16: 1828930782
-      neo_zero_char_01_17: -1679417525
-      neo_zero_char_01_18: -1954026240
-      neo_zero_char_01_19: 1706674958
-      neo_zero_char_01_2: 266095522
-      neo_zero_char_01_20: -537729533
-      neo_zero_char_01_21: 1318535640
-      neo_zero_char_01_22: 869509290
-      neo_zero_char_01_23: -778547216
-      neo_zero_char_01_24: 1640834245
-      neo_zero_char_01_25: -332972029
-      neo_zero_char_01_26: 2051095360
-      neo_zero_char_01_3: -638455029
-      neo_zero_char_01_4: -2135841225
-      neo_zero_char_01_5: -1383399009
-      neo_zero_char_01_6: 369967381
-      neo_zero_char_01_7: 1330789704
-      neo_zero_char_01_8: 389009812
-      neo_zero_char_01_9: 1794683337
+      NoTilemap_0: 1015014879
+      NoTilemap_1: 1637926123
+      NoTilemap_2: -248381224
+      neo_zero_props_and_items_01 1_0: 543439258
+      neo_zero_props_and_items_01 1_1: -187808430
+      neo_zero_props_and_items_01 1_10: 1963618861
+      neo_zero_props_and_items_01 1_11: 402902347
+      neo_zero_props_and_items_01 1_12: 1832077380
+      neo_zero_props_and_items_01 1_13: -1882460489
+      neo_zero_props_and_items_01 1_14: -1321679932
+      neo_zero_props_and_items_01 1_15: 694979644
+      neo_zero_props_and_items_01 1_16: -965407809
+      neo_zero_props_and_items_01 1_17: -975624422
+      neo_zero_props_and_items_01 1_18: -1595004036
+      neo_zero_props_and_items_01 1_19: -575719483
+      neo_zero_props_and_items_01 1_2: -620510580
+      neo_zero_props_and_items_01 1_20: 455818280
+      neo_zero_props_and_items_01 1_21: -615463884
+      neo_zero_props_and_items_01 1_22: -1297001755
+      neo_zero_props_and_items_01 1_23: -239378739
+      neo_zero_props_and_items_01 1_3: -1889862732
+      neo_zero_props_and_items_01 1_4: -1392094464
+      neo_zero_props_and_items_01 1_5: -1668443002
+      neo_zero_props_and_items_01 1_6: 313775235
+      neo_zero_props_and_items_01 1_7: -1500571036
+      neo_zero_props_and_items_01 1_8: -185681228
+      neo_zero_props_and_items_01 1_9: -370910940
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
