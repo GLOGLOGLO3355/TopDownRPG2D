@@ -504,8 +504,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 1593459099}
   playerMovement: {fileID: 1593459102}
-  Algo: 1
-  offset: {x: 0, y: 0, z: -45}
+  Algo: 0.8
+  offset: {x: 0, y: 0, z: -45.48}
 --- !u!1 &919673560
 GameObject:
   m_ObjectHideFlags: 0
