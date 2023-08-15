@@ -502,10 +502,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b6333dad6c942042ac152030472ab67, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 0}
-  playerMovement: {fileID: 0}
-  Algo: 0
-  offset: {x: 0, y: 0, z: 0}
+  player: {fileID: 1593459099}
+  playerMovement: {fileID: 1593459102}
+  Algo: 1
+  offset: {x: 0, y: 0, z: -45}
 --- !u!1 &919673560
 GameObject:
   m_ObjectHideFlags: 0

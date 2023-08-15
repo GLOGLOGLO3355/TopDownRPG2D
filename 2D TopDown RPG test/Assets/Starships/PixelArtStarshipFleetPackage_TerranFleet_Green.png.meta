@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 060eab229438c8b439080a97bab3a4ae
+guid: 1b674a3a0b10b1a4db524b9f6722d6d1
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,7 +117,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PixelArtStarshipFleetPackage_TerranFleet_Orange_0
+      name: PixelArtStarshipFleetPackage_TerranFleet_Green_0
       rect:
         serializedVersion: 2
         x: 3
@@ -131,14 +131,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d175ca2f7d7c6314297768a671054d11
-      internalID: -218226717
+      spriteID: 9d2891c683a4de4498b1cbd373bd553f
+      internalID: 1648393831
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PixelArtStarshipFleetPackage_TerranFleet_Orange_1
+      name: PixelArtStarshipFleetPackage_TerranFleet_Green_1
       rect:
         serializedVersion: 2
         x: 35
@@ -152,14 +152,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 100da2c78dc467c4c97d8a8a366c364b
-      internalID: 161619978
+      spriteID: 4a15c1cfec911b345a06b5a718fa37f3
+      internalID: -620679414
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PixelArtStarshipFleetPackage_TerranFleet_Orange_2
+      name: PixelArtStarshipFleetPackage_TerranFleet_Green_2
       rect:
         serializedVersion: 2
         x: 76
@@ -173,14 +173,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d27012051f11a9e46837af68cb355217
-      internalID: -1956945286
+      spriteID: 36e7b39f944fadf41837f8766090dc88
+      internalID: 833360141
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PixelArtStarshipFleetPackage_TerranFleet_Orange_3
+      name: PixelArtStarshipFleetPackage_TerranFleet_Green_3
       rect:
         serializedVersion: 2
         x: 136
@@ -194,14 +194,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c611ee0f9a23ad040a81af24de091fa5
-      internalID: 1706153296
+      spriteID: 7addc574451e20248b08970d637e7071
+      internalID: -418158679
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PixelArtStarshipFleetPackage_TerranFleet_Orange_4
+      name: PixelArtStarshipFleetPackage_TerranFleet_Green_4
       rect:
         serializedVersion: 2
         x: 197
@@ -215,14 +215,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 822cef18ec7dfb64a95253171111f808
-      internalID: 1516391829
+      spriteID: bd50d6ff8dc47e84299b51b701645d5c
+      internalID: 1657102693
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PixelArtStarshipFleetPackage_TerranFleet_Orange_5
+      name: PixelArtStarshipFleetPackage_TerranFleet_Green_5
       rect:
         serializedVersion: 2
         x: 292
@@ -236,14 +236,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0dfe81aa177a5074e8bee2d635783640
-      internalID: -1369156140
+      spriteID: e75b5ee9f0e164345a59f4fa02a0d273
+      internalID: -290815856
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PixelArtStarshipFleetPackage_TerranFleet_Orange_6
+      name: PixelArtStarshipFleetPackage_TerranFleet_Green_6
       rect:
         serializedVersion: 2
         x: 395
@@ -257,14 +257,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fad01c2c29f71604ba74201ca5740ec9
-      internalID: 665963076
+      spriteID: 1c683be6cc9a68f4d86cd0401ca7bb9d
+      internalID: -1560791487
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PixelArtStarshipFleetPackage_TerranFleet_Orange_7
+      name: PixelArtStarshipFleetPackage_TerranFleet_Green_7
       rect:
         serializedVersion: 2
         x: 3
@@ -278,14 +278,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d92ec08d501dd434bb856f0343229a96
-      internalID: -720527041
+      spriteID: 772135fa0715d1d49b47c0be4a389625
+      internalID: -1302113174
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PixelArtStarshipFleetPackage_TerranFleet_Orange_8
+      name: PixelArtStarshipFleetPackage_TerranFleet_Green_8
       rect:
         serializedVersion: 2
         x: 33
@@ -299,14 +299,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c34e94a5b3f338d4aa54491bf8d46c43
-      internalID: -1852317854
+      spriteID: 9ef73250ae8d03f428b6ca68cff18afd
+      internalID: 704037505
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PixelArtStarshipFleetPackage_TerranFleet_Orange_9
+      name: PixelArtStarshipFleetPackage_TerranFleet_Green_9
       rect:
         serializedVersion: 2
         x: 5
@@ -320,14 +320,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1389604ee7f82af48b570982f52e5eb5
-      internalID: 1955955404
+      spriteID: a7af813d9b1b74a40b5fb69c117992e8
+      internalID: -1676231006
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PixelArtStarshipFleetPackage_TerranFleet_Orange_10
+      name: PixelArtStarshipFleetPackage_TerranFleet_Green_10
       rect:
         serializedVersion: 2
         x: 69
@@ -341,14 +341,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 842075150643627439bd14ac6fb5c6d6
-      internalID: 1212546569
+      spriteID: 1a60419129b01ce4ca11a4389dbdab78
+      internalID: -1461602358
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PixelArtStarshipFleetPackage_TerranFleet_Orange_11
+      name: PixelArtStarshipFleetPackage_TerranFleet_Green_11
       rect:
         serializedVersion: 2
         x: 22
@@ -362,14 +362,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d887d32a396c8674a93a7654d8fc0049
-      internalID: 219850949
+      spriteID: 92663c73b66e03443bbe1f0e26070619
+      internalID: 1524116147
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PixelArtStarshipFleetPackage_TerranFleet_Orange_12
+      name: PixelArtStarshipFleetPackage_TerranFleet_Green_12
       rect:
         serializedVersion: 2
         x: 140
@@ -383,14 +383,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 81b40be762aca82438d42f8b6b9d922f
-      internalID: -313879177
+      spriteID: 6c2af8a896018a244abaec6389995ab2
+      internalID: 1839988363
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PixelArtStarshipFleetPackage_TerranFleet_Orange_13
+      name: PixelArtStarshipFleetPackage_TerranFleet_Green_13
       rect:
         serializedVersion: 2
         x: 283
@@ -404,14 +404,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dd9576a92e08a5c4285d7801b78813ed
-      internalID: 397381634
+      spriteID: 7c2c2af51156de44eb6a8a0ffda77e8b
+      internalID: -50671533
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PixelArtStarshipFleetPackage_TerranFleet_Orange_14
+      name: PixelArtStarshipFleetPackage_TerranFleet_Green_14
       rect:
         serializedVersion: 2
         x: 50
@@ -425,14 +425,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f9f846c71e8c6744810f7886e5eb31d
-      internalID: 218684565
+      spriteID: a71fabf4628c081469aee9f4290bf4b0
+      internalID: 1095170552
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PixelArtStarshipFleetPackage_TerranFleet_Orange_15
+      name: PixelArtStarshipFleetPackage_TerranFleet_Green_15
       rect:
         serializedVersion: 2
         x: 286
@@ -446,8 +446,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69f7a7dfee486a7468d568b034b67a03
-      internalID: -587405315
+      spriteID: 47045cd65a16389478eee4136542501d
+      internalID: -2073282924
       vertices: []
       indices: 
       edges: []
@@ -463,22 +463,22 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      PixelArtStarshipFleetPackage_TerranFleet_Orange_0: -218226717
-      PixelArtStarshipFleetPackage_TerranFleet_Orange_1: 161619978
-      PixelArtStarshipFleetPackage_TerranFleet_Orange_10: 1212546569
-      PixelArtStarshipFleetPackage_TerranFleet_Orange_11: 219850949
-      PixelArtStarshipFleetPackage_TerranFleet_Orange_12: -313879177
-      PixelArtStarshipFleetPackage_TerranFleet_Orange_13: 397381634
-      PixelArtStarshipFleetPackage_TerranFleet_Orange_14: 218684565
-      PixelArtStarshipFleetPackage_TerranFleet_Orange_15: -587405315
-      PixelArtStarshipFleetPackage_TerranFleet_Orange_2: -1956945286
-      PixelArtStarshipFleetPackage_TerranFleet_Orange_3: 1706153296
-      PixelArtStarshipFleetPackage_TerranFleet_Orange_4: 1516391829
-      PixelArtStarshipFleetPackage_TerranFleet_Orange_5: -1369156140
-      PixelArtStarshipFleetPackage_TerranFleet_Orange_6: 665963076
-      PixelArtStarshipFleetPackage_TerranFleet_Orange_7: -720527041
-      PixelArtStarshipFleetPackage_TerranFleet_Orange_8: -1852317854
-      PixelArtStarshipFleetPackage_TerranFleet_Orange_9: 1955955404
+      PixelArtStarshipFleetPackage_TerranFleet_Green_0: 1648393831
+      PixelArtStarshipFleetPackage_TerranFleet_Green_1: -620679414
+      PixelArtStarshipFleetPackage_TerranFleet_Green_10: -1461602358
+      PixelArtStarshipFleetPackage_TerranFleet_Green_11: 1524116147
+      PixelArtStarshipFleetPackage_TerranFleet_Green_12: 1839988363
+      PixelArtStarshipFleetPackage_TerranFleet_Green_13: -50671533
+      PixelArtStarshipFleetPackage_TerranFleet_Green_14: 1095170552
+      PixelArtStarshipFleetPackage_TerranFleet_Green_15: -2073282924
+      PixelArtStarshipFleetPackage_TerranFleet_Green_2: 833360141
+      PixelArtStarshipFleetPackage_TerranFleet_Green_3: -418158679
+      PixelArtStarshipFleetPackage_TerranFleet_Green_4: 1657102693
+      PixelArtStarshipFleetPackage_TerranFleet_Green_5: -290815856
+      PixelArtStarshipFleetPackage_TerranFleet_Green_6: -1560791487
+      PixelArtStarshipFleetPackage_TerranFleet_Green_7: -1302113174
+      PixelArtStarshipFleetPackage_TerranFleet_Green_8: 704037505
+      PixelArtStarshipFleetPackage_TerranFleet_Green_9: -1676231006
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
