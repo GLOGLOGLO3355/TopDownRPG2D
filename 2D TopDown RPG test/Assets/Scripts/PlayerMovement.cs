@@ -51,7 +51,7 @@ public class PlayerMovement : MonoBehaviour
 
     public void EnemyAttack(GameObject enemy)
     {
-        SceneManager.LoadScene("Starshipfight", LoadSceneMode.Additive);
+        SceneManager.LoadScene("Starshipfight");
     }
     private void Update()
     {

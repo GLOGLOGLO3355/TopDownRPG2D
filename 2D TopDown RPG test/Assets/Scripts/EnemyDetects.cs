@@ -41,6 +41,7 @@ public class EnemyDetects : MonoBehaviour
             {
                 rb.velocity = Vector2.zero;
                 anim.SetBool("walk", false);
+                playerMovement.EnemyAttack(gameObject);
 
             }
         }
