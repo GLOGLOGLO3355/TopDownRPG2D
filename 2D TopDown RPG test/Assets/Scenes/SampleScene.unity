@@ -1894,6 +1894,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 4
   enemy: {fileID: 1959612265}
+  SceneStarshipFight: 
 --- !u!50 &1593459103
 Rigidbody2D:
   serializedVersion: 4
@@ -18706,6 +18707,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 09e678fa9faa46444884bfe59753dfdb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  playerMovement: {fileID: 1593459102}
   player: {fileID: 1593459096}
   moveSpeed: 2
   stoppingDistance: 1
