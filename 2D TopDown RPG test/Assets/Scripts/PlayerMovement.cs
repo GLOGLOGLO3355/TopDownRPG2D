@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -48,9 +49,9 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    public void EnemyAttack(Vector2 enemyPosition)
+    public void EnemyAttack(GameObject enemy)
     {
-       
+        SceneManager.LoadScene("Starshipfight", LoadSceneMode.Additive);
     }
     private void Update()
     {
