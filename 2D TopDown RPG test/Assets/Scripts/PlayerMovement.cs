@@ -11,6 +11,8 @@ public class PlayerMovement : MonoBehaviour
     private Animator anim;
     public GameObject enemy;
     private bool canWalk = true;
+
+    public string SceneStarshipFight;
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
