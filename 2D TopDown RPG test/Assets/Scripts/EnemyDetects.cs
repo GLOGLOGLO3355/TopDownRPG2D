@@ -4,12 +4,13 @@ using UnityEngine;
 
 public class EnemyDetects : MonoBehaviour
 {
+    public PlayerMovement playerMovement;
     public GameObject player;
     private Animator anim;
     public float moveSpeed = 2.0f;
     public float stoppingDistance = 2.0f;
     private Rigidbody2D rb;
-    private bool isFollowingPlayer = false;
+    public bool isFollowingPlayer = false;
 
     // Start is called before the first frame update
     private void Start()
@@ -30,6 +31,7 @@ public class EnemyDetects : MonoBehaviour
     {
         if (isFollowingPlayer)
         {
+            playerMovement.StopPlayer(transform.position);
             Vector3 directionToPlayer = player.transform.position - transform.position;
             if (directionToPlayer.magnitude > stoppingDistance)
             {
@@ -39,6 +41,7 @@ public class EnemyDetects : MonoBehaviour
             {
                 rb.velocity = Vector2.zero;
                 anim.SetBool("walk", false);
+
             }
         }
     }
