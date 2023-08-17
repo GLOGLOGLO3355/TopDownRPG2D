@@ -128,8 +128,8 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 8, y: -8}
-        - {x: 5, y: -8}
+      - - {x: 8, y: -6}
+        - {x: 4, y: -6}
         - {x: -8, y: 6}
         - {x: -8, y: 8}
         - {x: -4, y: 8}
@@ -471,6 +471,69 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Escalera_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b77df99b61ca0458ffce33c803a00f
+      internalID: -600357004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb465157f83f0544b64cfa58c4e8f7a
+      internalID: 1700237617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalera_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b7713fdd443104bb7f27c82264d6ad
+      internalID: 1183152154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -484,6 +547,9 @@ TextureImporter:
     nameFileIdTable:
       Escalera_0: 1814908868
       Escalera_1: 718043538
+      Escalera_10: -600357004
+      Escalera_11: 1700237617
+      Escalera_12: 1183152154
       Escalera_2: -1815712909
       Escalera_3: -1655149662
       Escalera_4: 670463355

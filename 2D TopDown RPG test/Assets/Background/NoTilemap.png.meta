@@ -117,7 +117,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: neo_zero_props_and_items_01 1_0
+      name: coffeeSign
       rect:
         serializedVersion: 2
         x: 1
@@ -138,12 +138,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_props_and_items_01 1_1
+      name: distrib6
       rect:
         serializedVersion: 2
         x: 23
         y: 134
-        width: 41
+        width: 25
         height: 26
       alignment: 9
       pivot: {x: 0.5286169, y: 0.02165633}
@@ -159,7 +159,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_props_and_items_01 1_2
+      name: Distrib
       rect:
         serializedVersion: 2
         x: 65
@@ -180,7 +180,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_props_and_items_01 1_3
+      name: distrib2
       rect:
         serializedVersion: 2
         x: 96
@@ -201,7 +201,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_props_and_items_01 1_4
+      name: arcade
       rect:
         serializedVersion: 2
         x: 113
@@ -222,7 +222,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_props_and_items_01 1_5
+      name: chest
       rect:
         serializedVersion: 2
         x: 129
@@ -243,7 +243,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_props_and_items_01 1_6
+      name: coin
       rect:
         serializedVersion: 2
         x: 147
@@ -264,7 +264,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_props_and_items_01 1_7
+      name: sign
       rect:
         serializedVersion: 2
         x: 146
@@ -285,7 +285,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_props_and_items_01 1_8
+      name: moto
       rect:
         serializedVersion: 2
         x: 18
@@ -327,15 +327,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_props_and_items_01 1_10
+      name: fan
       rect:
         serializedVersion: 2
-        x: 80
-        y: 64
-        width: 80
-        height: 42
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 128
+        y: 80
+        width: 16
+        height: 14
+      alignment: 9
+      pivot: {x: 0.50685596, y: 0.08321162}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -348,7 +348,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_props_and_items_01 1_11
+      name: bottle
       rect:
         serializedVersion: 2
         x: 134
@@ -369,7 +369,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_props_and_items_01 1_12
+      name: bottles
       rect:
         serializedVersion: 2
         x: 145
@@ -411,7 +411,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_props_and_items_01 1_14
+      name: tree0
       rect:
         serializedVersion: 2
         x: 3
@@ -432,7 +432,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_props_and_items_01 1_15
+      name: tree1
       rect:
         serializedVersion: 2
         x: 18
@@ -453,7 +453,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_props_and_items_01 1_16
+      name: streetlamp
       rect:
         serializedVersion: 2
         x: 112
@@ -474,7 +474,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_props_and_items_01 1_17
+      name: pole
       rect:
         serializedVersion: 2
         x: 131
@@ -495,7 +495,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_props_and_items_01 1_18
+      name: satellite
       rect:
         serializedVersion: 2
         x: 145
@@ -516,7 +516,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_props_and_items_01 1_19
+      name: plant0
       rect:
         serializedVersion: 2
         x: 16
@@ -537,7 +537,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_props_and_items_01 1_20
+      name: boxes
       rect:
         serializedVersion: 2
         x: 51
@@ -558,7 +558,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_props_and_items_01 1_21
+      name: grave
       rect:
         serializedVersion: 2
         x: 83
@@ -579,7 +579,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_props_and_items_01 1_22
+      name: garbage
       rect:
         serializedVersion: 2
         x: 67
@@ -600,7 +600,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: neo_zero_props_and_items_01 1_23
+      name: marker
       rect:
         serializedVersion: 2
         x: 100
@@ -621,7 +621,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NoTilemap_0
+      name: plant1
       rect:
         serializedVersion: 2
         x: 0
@@ -642,7 +642,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NoTilemap_1
+      name: tree4
       rect:
         serializedVersion: 2
         x: 18
@@ -663,7 +663,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NoTilemap_2
+      name: tree3
       rect:
         serializedVersion: 2
         x: 3
@@ -683,6 +683,195 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: distib4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 134
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.47066736, y: 0.099124275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5d82688a286c749ab2a31ec105976e
+      internalID: 567351231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoTilemap_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5093622, y: 0.080526225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee9d2a9d0e8dd444a0622d334476617
+      internalID: 1782027928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoTilemap_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5093608, y: 0.039039318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c932f3bad327d43abeee7c635db18e
+      internalID: -1856701477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: table0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 71
+        width: 16
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5280895, y: 0.16708374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34c8522e09c9584882c8352617a6b1f
+      internalID: -961632670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: table1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 9
+      alignment: 9
+      pivot: {x: 0.48493958, y: 0.16532305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d4958aba263b442b65fba037c2a3d7
+      internalID: 814161659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigChair0
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 68
+        width: 9
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09838804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7172777f150f7e49a0f8ac2319a68a2
+      internalID: 1938830824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoTilemap_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 69
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1686697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641f6b1c861871d4fa3d48c0b313631c
+      internalID: 1530889654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoTilemap_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 65
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.4827881, y: 0.15360928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7e9c28b13aaa74491cefc241baeb04
+      internalID: -36042297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bigChair1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 64
+        width: 9
+        height: 12
+      alignment: 9
+      pivot: {x: 0.52607304, y: 0.12845676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963f0ac4928d6b143bad0515fcac35d2
+      internalID: -453782724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -694,33 +883,42 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      NoTilemap_0: 1015014879
-      NoTilemap_1: 1637926123
-      NoTilemap_2: -248381224
-      neo_zero_props_and_items_01 1_0: 543439258
-      neo_zero_props_and_items_01 1_1: -187808430
-      neo_zero_props_and_items_01 1_10: 1963618861
-      neo_zero_props_and_items_01 1_11: 402902347
-      neo_zero_props_and_items_01 1_12: 1832077380
+      Distrib: -620510580
+      NoTilemap_10: -1297001755
+      NoTilemap_4: 1782027928
+      NoTilemap_5: 1530889654
+      NoTilemap_9: -36042297
+      arcade: -1392094464
+      bigChair0: 1963618861
+      bigChair1: 1938830824
+      bottle: 1832077380
+      bottles: 814161659
+      boxes: -615463884
+      chest: -1668443002
+      coffeeSign: 543439258
+      coin: 313775235
+      distib4: 567351231
+      distrib2: -1889862732
+      distrib6: -187808430
+      fan: -1856701477
+      garbage: 455818280
+      grave: -239378739
+      marker: 694979644
+      moto: -185681228
       neo_zero_props_and_items_01 1_13: -1882460489
-      neo_zero_props_and_items_01 1_14: -1321679932
-      neo_zero_props_and_items_01 1_15: 694979644
-      neo_zero_props_and_items_01 1_16: -965407809
-      neo_zero_props_and_items_01 1_17: -975624422
-      neo_zero_props_and_items_01 1_18: -1595004036
-      neo_zero_props_and_items_01 1_19: -575719483
-      neo_zero_props_and_items_01 1_2: -620510580
-      neo_zero_props_and_items_01 1_20: 455818280
-      neo_zero_props_and_items_01 1_21: -615463884
-      neo_zero_props_and_items_01 1_22: -1297001755
-      neo_zero_props_and_items_01 1_23: -239378739
-      neo_zero_props_and_items_01 1_3: -1889862732
-      neo_zero_props_and_items_01 1_4: -1392094464
-      neo_zero_props_and_items_01 1_5: -1668443002
-      neo_zero_props_and_items_01 1_6: 313775235
-      neo_zero_props_and_items_01 1_7: -1500571036
-      neo_zero_props_and_items_01 1_8: -185681228
       neo_zero_props_and_items_01 1_9: -370910940
+      plant0: -965407809
+      plant1: -575719483
+      pole: -1595004036
+      satellite: 402902347
+      sign: -1500571036
+      streetlamp: -975624422
+      table0: -453782724
+      table1: -961632670
+      tree0: -248381224
+      tree1: -1321679932
+      tree3: 1637926123
+      tree4: 1015014879
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
