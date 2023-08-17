@@ -22,8 +22,35 @@ public class EnemyDetects : MonoBehaviour
     {
         if (collision.gameObject == player)
         {
-            anim.SetBool("walk",true);
-            isFollowingPlayer= true;
+            isFollowingPlayer=true;
+            anim.SetBool("isWalkingDown", false);
+            anim.SetBool("isWalkingSide", false);
+            anim.SetBool("isWalkingUp", false);
+            float difx = transform.position.x - player.transform.position.x;
+            float dify = transform.position.y - player.transform.position.y;
+            if (Mathf.Abs(difx) < Mathf.Abs(dify))
+            {
+                if (dify > 0)
+                {
+                    anim.SetBool("isWalkingDown", true);
+                }
+                else
+                {
+                    anim.SetBool("isWalkingUp", true);
+                }
+            }
+            else
+            {
+                anim.SetBool("isWalkingSide", true);
+                if (difx > 0)
+                {
+                    transform.rotation = Quaternion.Euler(0f, 180f, 0f);
+                }
+                else
+                {
+                    transform.rotation = Quaternion.Euler(0f, 0f, 0f);
+                }
+            }
         }
     }
 
@@ -40,7 +67,9 @@ public class EnemyDetects : MonoBehaviour
             else
             {
                 rb.velocity = Vector2.zero;
-                anim.SetBool("walk", false);
+                anim.SetBool("isWalkingDown", false);
+                anim.SetBool("isWalkingSide", false);
+                anim.SetBool("isWalkingUp", false);
                 playerMovement.EnemyAttack(gameObject);
 
             }
