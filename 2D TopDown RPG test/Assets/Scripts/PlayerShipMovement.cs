@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerShipMovement : MonoBehaviour
 {
-    public float moveSpeed = 5f;
+    public float moveSpeed = 50f;
     private Rigidbody2D rb;
     private void Start()
     {
@@ -14,11 +14,10 @@ public class PlayerShipMovement : MonoBehaviour
     {
         // Obtener la entrada horizontal y vertical
         float horizontalInput = Input.GetAxis("Horizontal");
-        float verticalInput = Input.GetAxis("Vertical");
-
+        transform.Rotate(Vector3.forward, horizontalInput*-1);
         // Calcular el vector de movimiento
-        rb.velocity = new Vector2(horizontalInput, verticalInput) * moveSpeed;
-
+        rb.velocity = transform.up * moveSpeed;
+    
     }
 }
 
