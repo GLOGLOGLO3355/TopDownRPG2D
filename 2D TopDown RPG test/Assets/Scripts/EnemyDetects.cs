@@ -58,6 +58,9 @@ public class EnemyDetects : MonoBehaviour
     {
         if (isFollowingPlayer)
         {
+            rb.constraints &= ~RigidbodyConstraints2D.FreezePositionY;
+            rb.constraints &= ~RigidbodyConstraints2D.FreezePositionX;
+
             playerMovement.StopPlayer(transform.position);
             Vector3 directionToPlayer = player.transform.position - transform.position;
             if (directionToPlayer.magnitude > stoppingDistance)
